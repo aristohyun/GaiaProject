@@ -1,0 +1,13 @@
+body{
+	background-color:black;
+}
+img{
+	width:600px;
+	height:450px;
+	position:absolute;
+	left:50%;
+	top:50%;
+	margin-left:-300px;
+	margin-top:-225px;
+	opacity:1;
+}
